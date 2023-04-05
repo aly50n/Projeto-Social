@@ -6,4 +6,4 @@ Acesse o projeto no GitHubPages <a href="https://aly50n.github.io/Projeto-Social
 Instruções:<br>
 1- Clique em um dos botões para acessar a rede social desejada.<br>
 2- Role com o scroll na tela do celular para ver mais.<br>
-3- Clique no botoão acesse agora para visitar a rede social aberta no celular.
+3- Clique no botoão ACESSE para visitar a rede social aberta no celular.
